@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langgraph
+ollama
+faiss-cpu
+pypdf
+pydantic
+python-dotenv
+tavily-python
+langchain-tavily
